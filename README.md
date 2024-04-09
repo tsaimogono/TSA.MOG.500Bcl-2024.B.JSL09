@@ -38,5 +38,3 @@ You can download your Scrimba files in the bottom right hand corner of the Scrim
 3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
 
 
-
-
